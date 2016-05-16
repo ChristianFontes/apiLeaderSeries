@@ -1,0 +1,1613 @@
+{
+  "data": {
+    "progressseries": [
+      {
+        "mySerie": 13,
+        "episodeId": "592",
+        "serieIMDB": "tt3107288",
+        "info": {
+          "id": 592,
+          "url": "http://www.tvmaze.com/episodes/592/the-flash-1x01-city-of-heroes",
+          "name": "City of Heroes",
+          "season": 1,
+          "number": 1,
+          "airdate": "2014-10-07",
+          "airtime": "20:00",
+          "airstamp": "2014-10-07T20:00:00-04:00",
+          "runtime": 60,
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_landscape/0/1167.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/0/1167.jpg"
+          },
+          "summary": "<p>Barry discovers his powers and puts them to the test, only when he finds its no longer a test but the real thing when he encounters a certain someone.</p>",
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/episodes/592"
+            }
+          }
+        },
+        "createdAt": "2016-05-13T23:32:24.910Z",
+        "updatedAt": "2016-05-13T23:32:24.915Z",
+        "id": 4
+      },
+      {
+        "mySerie": 13,
+        "episodeId": "593",
+        "serieIMDB": "tt3107288",
+        "info": {
+          "id": 593,
+          "url": "http://www.tvmaze.com/episodes/593/the-flash-1x02-fastest-man-alive",
+          "name": "Fastest Man Alive",
+          "season": 1,
+          "number": 2,
+          "airdate": "2014-10-14",
+          "airtime": "20:00",
+          "airstamp": "2014-10-14T20:00:00-04:00",
+          "runtime": 60,
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_landscape/0/1169.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/0/1169.jpg"
+          },
+          "summary": "<p>Barry escorts Iris to a university gathering honoring scientist Simon Stagg. When six gunmen storm the event, Barry changes into The Flash and tries to stop them. While he does save a man’s life, he passes out before he can capture the robbers, which frustrates him. As Dr. Wells, Caitlin and Cisco scramble to find out what’s wrong with Barry, Joe comes down hard on Barry for taking the law into his own hands and risking his life. Barry realizes that it wasn’t six gunmen but a metahuman named Danton Black, who can make multiples of himself. Meanwhile, Iris becomes even more intrigued by the “red streak.”</p>",
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/episodes/593"
+            }
+          }
+        },
+        "createdAt": "2016-05-13T23:32:26.260Z",
+        "updatedAt": "2016-05-13T23:32:26.265Z",
+        "id": 5
+      },
+      {
+        "mySerie": 13,
+        "episodeId": "594",
+        "serieIMDB": "tt3107288",
+        "info": {
+          "id": 594,
+          "url": "http://www.tvmaze.com/episodes/594/the-flash-1x03-things-you-cant-outrun",
+          "name": "Things You Can't Outrun",
+          "season": 1,
+          "number": 3,
+          "airdate": "2014-10-21",
+          "airtime": "20:00",
+          "airstamp": "2014-10-21T20:00:00-04:00",
+          "runtime": 60,
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_landscape/1/4986.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/1/4986.jpg"
+          },
+          "summary": "<p>As Barry and the team at S.T.A.R. Labs work to capture Kyle Nimbus, a.k.a. The Mist, a dangerous new meta-human with toxic gas powers, they revisit the painful night the particle accelerator exploded and killed Caitlin’s fiancé, Ronnie. Meanwhile, Joe decides to finally visit Henry in jail after all these years, but things take a dangerous turn when Kyle shows up looking to punish Joe for arresting him years ago. Meanwhile, Iris and Eddie continue to hide their relationship from Joe.</p>",
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/episodes/594"
+            }
+          }
+        },
+        "createdAt": "2016-05-13T23:32:43.166Z",
+        "updatedAt": "2016-05-13T23:32:43.172Z",
+        "id": 6
+      },
+      {
+        "mySerie": 82,
+        "episodeId": "4952",
+        "serieIMDB": "tt0944947",
+        "info": {
+          "id": 4952,
+          "url": "http://www.tvmaze.com/episodes/4952/game-of-thrones-1x01-winter-is-coming",
+          "name": "Winter is Coming",
+          "season": 1,
+          "number": 1,
+          "airdate": "2011-04-17",
+          "airtime": "21:00",
+          "airstamp": "2011-04-17T21:00:00-04:00",
+          "runtime": 60,
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_landscape/1/2668.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/1/2668.jpg"
+          },
+          "summary": "<p>Lord Eddard Stark, ruler of the North, is summoned to court by his old friend, King Robert Baratheon, to serve as the King's Hand. Eddard reluctantly agrees after learning of a possible threat to the King's life. Eddard's bastard son Jon Snow must make a painful decision about his own future, while in the distant east Viserys Targaryen plots to reclaim his father's throne, usurped by Robert, by selling his sister in marriage.</p>",
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/episodes/4952"
+            }
+          }
+        },
+        "createdAt": "2016-05-14T00:26:48.026Z",
+        "updatedAt": "2016-05-14T00:26:48.032Z",
+        "id": 9
+      },
+      {
+        "mySerie": 13,
+        "episodeId": "595",
+        "serieIMDB": "tt3107288",
+        "info": {
+          "id": 595,
+          "url": "http://www.tvmaze.com/episodes/595/the-flash-1x04-going-rogue",
+          "name": "Going Rogue",
+          "season": 1,
+          "number": 4,
+          "airdate": "2014-10-28",
+          "airtime": "20:00",
+          "airstamp": "2014-10-28T20:00:00-04:00",
+          "runtime": 60,
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_landscape/2/6085.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/2/6085.jpg"
+          },
+          "summary": "<p>The Flash  stops a robbery but the culprits get away after shooting a guard, and The Flash chooses to save the man instead of following the criminals.  Joe  shows Barry a book of suspects and Barry identifies Leonard Snart  as the leader of the group.  While investigating the case, Barry gets a surprise visit from an old friend - Felicity Smoak, who heard about his new abilities and came to check them out for herself.  She joins him at S.T.A.R. Labs to help stop Snart after it's revealed that Snart his gotten his hands on a stolen \"cold gun,\" which could kill The Flash.  Dr. Wells  is furious when he finds out that Cisco  built the cold gun without telling anyone and now it's missing.  Meanwhile, Iris  is getting the silent treatment from Joe because of her relationship with Eddie.  Finally, The Flash and Captain Cold have an epic confrontation. </p>",
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/episodes/595"
+            }
+          }
+        },
+        "createdAt": "2016-05-14T00:32:18.163Z",
+        "updatedAt": "2016-05-14T00:32:18.170Z",
+        "id": 10
+      },
+      {
+        "mySerie": 82,
+        "episodeId": "560813",
+        "serieIMDB": "tt0944947",
+        "info": {
+          "id": 560813,
+          "url": "http://www.tvmaze.com/episodes/560813/game-of-thrones-6x01-the-red-woman",
+          "name": "The Red Woman",
+          "season": 6,
+          "number": 1,
+          "airdate": "2016-04-24",
+          "airtime": "21:00",
+          "airstamp": "2016-04-24T21:00:00-04:00",
+          "runtime": 60,
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_landscape/56/142371.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/56/142371.jpg"
+          },
+          "summary": "<p>Jon Snow is dead. Daenerys meets a strong man. Cersei sees her daughter again.</p>",
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/episodes/560813"
+            }
+          }
+        },
+        "createdAt": "2016-05-14T00:56:02.267Z",
+        "updatedAt": "2016-05-14T00:56:02.274Z",
+        "id": 11
+      },
+      {
+        "mySerie": 82,
+        "episodeId": "664672",
+        "serieIMDB": "tt0944947",
+        "info": {
+          "id": 664672,
+          "url": "http://www.tvmaze.com/episodes/664672/game-of-thrones-6x02-home",
+          "name": "Home",
+          "season": 6,
+          "number": 2,
+          "airdate": "2016-05-01",
+          "airtime": "21:00",
+          "airstamp": "2016-05-01T21:00:00-04:00",
+          "runtime": 60,
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_landscape/56/142372.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/56/142372.jpg"
+          },
+          "summary": "<p>Bran trains with the Three-Eyed Raven. In King's Landing, Jaime advises Tommen. Tyrion demands good news, but has to make his own. At Castle Black, the Night's Watch stands behind Thorne. Ramsay Bolton proposes a plan, and Balon Greyjoy entertains other proposals.</p>",
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/episodes/664672"
+            }
+          }
+        },
+        "createdAt": "2016-05-14T00:56:03.386Z",
+        "updatedAt": "2016-05-14T00:56:03.390Z",
+        "id": 12
+      },
+      {
+        "mySerie": 82,
+        "episodeId": "664673",
+        "serieIMDB": "tt0944947",
+        "info": {
+          "id": 664673,
+          "url": "http://www.tvmaze.com/episodes/664673/game-of-thrones-6x03-oathbreaker",
+          "name": "Oathbreaker",
+          "season": 6,
+          "number": 3,
+          "airdate": "2016-05-08",
+          "airtime": "21:00",
+          "airstamp": "2016-05-08T21:00:00-04:00",
+          "runtime": 60,
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_landscape/56/142370.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/56/142370.jpg"
+          },
+          "summary": "<p>Daenerys meets her future. Bran meets the past. Tommen confronts the High Sparrow. Arya trains to be No One. Varys finds an answer. Ramsay gets a gift.</p>",
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/episodes/664673"
+            }
+          }
+        },
+        "createdAt": "2016-05-14T00:56:04.298Z",
+        "updatedAt": "2016-05-14T00:56:04.304Z",
+        "id": 13
+      },
+      {
+        "mySerie": 4,
+        "episodeId": "113",
+        "serieIMDB": "tt2193021",
+        "info": {
+          "id": 113,
+          "url": "http://www.tvmaze.com/episodes/113/arrow-1x01-pilot",
+          "name": "Pilot",
+          "season": 1,
+          "number": 1,
+          "airdate": "2012-10-10",
+          "airtime": "20:00",
+          "airstamp": "2012-10-10T20:00:00-04:00",
+          "runtime": 60,
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_landscape/1/4126.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/1/4126.jpg"
+          },
+          "summary": "<p>After a violent shipwreck, billionaire playboy Oliver Queen was missing and presumed dead for  five years before being discovered alive on a remote island in the  Pacific. Back in Starling City, Oliver slowly reconnects with those  closest to him, his devoted mother Moira, beloved sister Thea (, and best friend Tommy Merlyn, but  struggles with his ex-girlfriend Dinah \"Laurel\" Lance, who blames him for her sister's death.  Oliver has brought back many new skills from his time on the island and  despite the watchful eye of his new bodyguard John Diggle, Oliver manages to secretly create the persona  of Arrow - a vigilante - to right the wrongs of his family and fight  the ills of society. As Arrow, Oliver will atone for the past sins of  his family while he searches for the personal redemption he needs.</p>",
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/episodes/113"
+            }
+          }
+        },
+        "createdAt": "2016-05-14T17:54:14.814Z",
+        "updatedAt": "2016-05-14T17:54:14.823Z",
+        "id": 17
+      },
+      {
+        "mySerie": 4,
+        "episodeId": "114",
+        "serieIMDB": "tt2193021",
+        "info": {
+          "id": 114,
+          "url": "http://www.tvmaze.com/episodes/114/arrow-1x02-honor-thy-father",
+          "name": "Honor Thy Father",
+          "season": 1,
+          "number": 2,
+          "airdate": "2012-10-17",
+          "airtime": "20:00",
+          "airstamp": "2012-10-17T20:00:00-04:00",
+          "runtime": 60,
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_landscape/1/4127.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/1/4127.jpg"
+          },
+          "summary": "<p>Oliver heads to the courthouse to get his death certificate repealed and  is pleasantly surprised to run into Laurel, who is  there prosecuting Martin Somers, a criminal with  ties to the Chinese Triad.  Oliver recognizes Martin's name from his  father's book and sets his sights on taking him down.  Martin orders the  Triad to \"take care of\" Laurel so they send their top mercenary - China  White - after her, an act that culminates in a battle between  Arrow and China White.  Meanwhile, Moira and Walter ask Oliver to take over the company.</p>",
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/episodes/114"
+            }
+          }
+        },
+        "createdAt": "2016-05-14T17:54:15.648Z",
+        "updatedAt": "2016-05-14T17:54:15.656Z",
+        "id": 18
+      },
+      {
+        "mySerie": 4,
+        "episodeId": "115",
+        "serieIMDB": "tt2193021",
+        "info": {
+          "id": 115,
+          "url": "http://www.tvmaze.com/episodes/115/arrow-1x03-lone-gunmen",
+          "name": "Lone Gunmen",
+          "season": 1,
+          "number": 3,
+          "airdate": "2012-10-24",
+          "airtime": "20:00",
+          "airstamp": "2012-10-24T20:00:00-04:00",
+          "runtime": 60,
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_landscape/1/4128.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/1/4128.jpg"
+          },
+          "summary": "<p>Oliver is surprised when someone shoots and kills one of  his targets.  As his plan is to bring people to justice vs. outright  killing them, Oliver doesn't appreciate the help and searches for the  gunman.  He soon learns that the man, Deadshot, is taking out businessmen who are scheduled to bid at an auction  on an energy company and Walteris one of the bidders.   Realizing he can't protect his family and stop Deadshot at the same  time, Oliver enlists Detective Lance's help, but his  plan has dire consequences.  Meanwhile, Laurel and Tommy  get caught in an awkward situation with Oliver.</p>",
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/episodes/115"
+            }
+          }
+        },
+        "createdAt": "2016-05-14T17:54:16.406Z",
+        "updatedAt": "2016-05-14T17:54:16.416Z",
+        "id": 19
+      },
+      {
+        "mySerie": 495,
+        "episodeId": "45006",
+        "serieIMDB": "tt0409591",
+        "info": {
+          "id": 45006,
+          "url": "http://www.tvmaze.com/episodes/45006/naruto-1x01-enter-uzumaki-naruto",
+          "name": "Enter! Uzumaki Naruto",
+          "season": 1,
+          "number": 1,
+          "airdate": "2002-10-03",
+          "airtime": "19:30",
+          "airstamp": "2002-10-03T19:30:00+09:00",
+          "runtime": 30,
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_landscape/27/68915.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/27/68915.jpg"
+          },
+          "summary": "<p>Welcome to the Village Hidden in the Leaves, where deadly serious Ninja roam the landscape and the seriously mischievous Naruto Uzumaki causes trouble everywhere he goes. But when he steals the ancient scroll of sealing, he unleashes a rare power rarely seen in a 12-year-old boy!</p>",
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/episodes/45006"
+            }
+          }
+        },
+        "createdAt": "2016-05-14T17:56:30.510Z",
+        "updatedAt": "2016-05-14T17:56:30.519Z",
+        "id": 20
+      },
+      {
+        "mySerie": 431,
+        "episodeId": "40646",
+        "serieIMDB": "tt0108778",
+        "info": {
+          "id": 40646,
+          "url": "http://www.tvmaze.com/episodes/40646/friends-1x01-the-one-where-it-all-began",
+          "name": "The One Where It All Began",
+          "season": 1,
+          "number": 1,
+          "airdate": "1994-09-22",
+          "airtime": "20:00",
+          "airstamp": "1994-09-22T20:00:00-04:00",
+          "runtime": 30,
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_landscape/23/59019.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/23/59019.jpg"
+          },
+          "summary": "<p>Monica's old friend Rachel moves in with her after leaving her fiancé.</p>",
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/episodes/40646"
+            }
+          }
+        },
+        "createdAt": "2016-05-14T17:59:52.817Z",
+        "updatedAt": "2016-05-14T17:59:52.823Z",
+        "id": 21
+      },
+      {
+        "mySerie": 82,
+        "episodeId": "560813",
+        "serieIMDB": "tt0944947",
+        "info": {
+          "id": 560813,
+          "url": "http://www.tvmaze.com/episodes/560813/game-of-thrones-6x01-the-red-woman",
+          "name": "The Red Woman",
+          "season": 6,
+          "number": 1,
+          "airdate": "2016-04-24",
+          "airtime": "21:00",
+          "airstamp": "2016-04-24T21:00:00-04:00",
+          "runtime": 60,
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_landscape/56/142371.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/56/142371.jpg"
+          },
+          "summary": "<p>Jon Snow is dead. Daenerys meets a strong man. Cersei sees her daughter again.</p>",
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/episodes/560813"
+            }
+          }
+        },
+        "createdAt": "2016-05-14T20:57:26.360Z",
+        "updatedAt": "2016-05-14T20:57:26.367Z",
+        "id": 26
+      },
+      {
+        "mySerie": 82,
+        "episodeId": "664672",
+        "serieIMDB": "tt0944947",
+        "info": {
+          "id": 664672,
+          "url": "http://www.tvmaze.com/episodes/664672/game-of-thrones-6x02-home",
+          "name": "Home",
+          "season": 6,
+          "number": 2,
+          "airdate": "2016-05-01",
+          "airtime": "21:00",
+          "airstamp": "2016-05-01T21:00:00-04:00",
+          "runtime": 60,
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_landscape/56/142372.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/56/142372.jpg"
+          },
+          "summary": "<p>Bran trains with the Three-Eyed Raven. In King's Landing, Jaime advises Tommen. Tyrion demands good news, but has to make his own. At Castle Black, the Night's Watch stands behind Thorne. Ramsay Bolton proposes a plan, and Balon Greyjoy entertains other proposals.</p>",
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/episodes/664672"
+            }
+          }
+        },
+        "createdAt": "2016-05-14T20:57:27.411Z",
+        "updatedAt": "2016-05-14T20:57:27.418Z",
+        "id": 27
+      },
+      {
+        "mySerie": 82,
+        "episodeId": "664673",
+        "serieIMDB": "tt0944947",
+        "info": {
+          "id": 664673,
+          "url": "http://www.tvmaze.com/episodes/664673/game-of-thrones-6x03-oathbreaker",
+          "name": "Oathbreaker",
+          "season": 6,
+          "number": 3,
+          "airdate": "2016-05-08",
+          "airtime": "21:00",
+          "airstamp": "2016-05-08T21:00:00-04:00",
+          "runtime": 60,
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_landscape/56/142370.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/56/142370.jpg"
+          },
+          "summary": "<p>Daenerys meets her future. Bran meets the past. Tommen confronts the High Sparrow. Arya trains to be No One. Varys finds an answer. Ramsay gets a gift.</p>",
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/episodes/664673"
+            }
+          }
+        },
+        "createdAt": "2016-05-14T20:57:45.289Z",
+        "updatedAt": "2016-05-14T20:57:45.298Z",
+        "id": 28
+      },
+      {
+        "mySerie": 2271,
+        "episodeId": "182354",
+        "serieIMDB": "tt3604232",
+        "info": {
+          "id": 182354,
+          "url": "http://www.tvmaze.com/episodes/182354/transformers-robots-in-disguise-1x01-pilot-part-1",
+          "name": "Pilot (Part 1)",
+          "season": 1,
+          "number": 1,
+          "airdate": "2015-03-14",
+          "airtime": "06:30",
+          "airstamp": "2015-03-14T06:30:00-04:00",
+          "runtime": 30,
+          "image": null,
+          "summary": "",
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/episodes/182354"
+            }
+          }
+        },
+        "createdAt": "2016-05-14T21:01:11.391Z",
+        "updatedAt": "2016-05-14T21:01:11.396Z",
+        "id": 30
+      },
+      {
+        "mySerie": 7229,
+        "episodeId": "412940",
+        "serieIMDB": "tt3220976",
+        "info": {
+          "id": 412940,
+          "url": "http://www.tvmaze.com/episodes/412940/lucky-dog-1x01-willie",
+          "name": "Willie",
+          "season": 1,
+          "number": 1,
+          "airdate": "2013-09-28",
+          "airtime": "09:00",
+          "airstamp": "2013-09-28T09:00:00-04:00",
+          "runtime": 30,
+          "image": null,
+          "summary": "",
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/episodes/412940"
+            }
+          }
+        },
+        "createdAt": "2016-05-15T04:16:38.499Z",
+        "updatedAt": "2016-05-15T04:16:38.510Z",
+        "id": 31
+      },
+      {
+        "mySerie": 4,
+        "episodeId": "113",
+        "serieIMDB": "tt2193021",
+        "info": {
+          "id": 113,
+          "url": "http://www.tvmaze.com/episodes/113/arrow-1x01-pilot",
+          "name": "Pilot",
+          "season": 1,
+          "number": 1,
+          "airdate": "2012-10-10",
+          "airtime": "20:00",
+          "airstamp": "2012-10-10T20:00:00-04:00",
+          "runtime": 60,
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_landscape/1/4126.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/1/4126.jpg"
+          },
+          "summary": "<p>After a violent shipwreck, billionaire playboy Oliver Queen was missing and presumed dead for  five years before being discovered alive on a remote island in the  Pacific. Back in Starling City, Oliver slowly reconnects with those  closest to him, his devoted mother Moira, beloved sister Thea (, and best friend Tommy Merlyn, but  struggles with his ex-girlfriend Dinah \"Laurel\" Lance, who blames him for her sister's death.  Oliver has brought back many new skills from his time on the island and  despite the watchful eye of his new bodyguard John Diggle, Oliver manages to secretly create the persona  of Arrow - a vigilante - to right the wrongs of his family and fight  the ills of society. As Arrow, Oliver will atone for the past sins of  his family while he searches for the personal redemption he needs.</p>",
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/episodes/113"
+            }
+          }
+        },
+        "createdAt": "2016-05-15T04:16:57.187Z",
+        "updatedAt": "2016-05-15T04:16:57.198Z",
+        "id": 32
+      },
+      {
+        "mySerie": 4,
+        "episodeId": "116",
+        "serieIMDB": "tt2193021",
+        "info": {
+          "id": 116,
+          "url": "http://www.tvmaze.com/episodes/116/arrow-1x04-an-innocent-man",
+          "name": "An Innocent Man",
+          "season": 1,
+          "number": 4,
+          "airdate": "2012-10-31",
+          "airtime": "20:00",
+          "airstamp": "2012-10-31T20:00:00-04:00",
+          "runtime": 60,
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_landscape/1/4130.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/1/4130.jpg"
+          },
+          "summary": "<p>Oliver still hasn't figured out how to get back in  Laurel's good graces, but a late night bonding session  with Thea gives him the inspiration he needs.  Looking  into a suspicious murder case, Oliver realizes an innocent man, Peter  Declan, was framed by one of the targets on  his list.  As Arrow, he asks Laurel to help prove Declan's innocence.   Meanwhile, Walter asks one of his employees,  Felicity Smoak, to look into a $2.6 million  withdrawal that Moira made without his knowledge.</p>",
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/episodes/116"
+            }
+          }
+        },
+        "createdAt": "2016-05-15T15:16:21.003Z",
+        "updatedAt": "2016-05-15T15:16:21.011Z",
+        "id": 33
+      },
+      {
+        "mySerie": 4,
+        "episodeId": "117",
+        "serieIMDB": "tt2193021",
+        "info": {
+          "id": 117,
+          "url": "http://www.tvmaze.com/episodes/117/arrow-1x05-damaged",
+          "name": "Damaged",
+          "season": 1,
+          "number": 5,
+          "airdate": "2012-11-07",
+          "airtime": "20:00",
+          "airstamp": "2012-11-07T20:00:00-05:00",
+          "runtime": 60,
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_landscape/1/4131.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/1/4131.jpg"
+          },
+          "summary": "<p>After Detective Lance arrests Oliver   for murder, Oliver tells Moira the only lawyer he'll  allow to represent him is Laurel .  Laurel takes the case  which puts her at odds with her father.  Oliver offers to take a  polygraph in front Detective Lance but things get tense when Lance asks  him if anyone else was on the island with him.  Oliver flashes back to  when he got his first scar, courtesy of Deathstroke.</p>",
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/episodes/117"
+            }
+          }
+        },
+        "createdAt": "2016-05-15T15:59:56.075Z",
+        "updatedAt": "2016-05-15T15:59:56.082Z",
+        "id": 34
+      },
+      {
+        "mySerie": 82,
+        "episodeId": "664674",
+        "serieIMDB": "tt0944947",
+        "info": {
+          "id": 664674,
+          "url": "http://www.tvmaze.com/episodes/664674/game-of-thrones-6x04-book-of-the-stranger",
+          "name": "Book of the Stranger",
+          "season": 6,
+          "number": 4,
+          "airdate": "2016-05-15",
+          "airtime": "21:00",
+          "airstamp": "2016-05-15T21:00:00-04:00",
+          "runtime": 60,
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_landscape/56/142273.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/56/142273.jpg"
+          },
+          "summary": "<p>Tyrion strikes a deal. Jorah and Daario undertake a difficult task. Jaime and Cersei try to improve their situation.</p>",
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/episodes/664674"
+            }
+          }
+        },
+        "createdAt": "2016-05-16T02:15:22.813Z",
+        "updatedAt": "2016-05-16T02:15:22.823Z",
+        "id": 35
+      }
+    ],
+    "series": [
+      {
+        "serie": {
+          "id": 13,
+          "url": "http://www.tvmaze.com/shows/13/the-flash",
+          "name": "The Flash",
+          "type": "Scripted",
+          "language": "English",
+          "genres": [
+            "Drama",
+            "Action",
+            "Adventure",
+            "Science-Fiction"
+          ],
+          "status": "Running",
+          "runtime": 60,
+          "premiered": "2014-10-07",
+          "schedule": {
+            "time": "20:00",
+            "days": [
+              "Tuesday"
+            ]
+          },
+          "rating": {
+            "average": 8.3
+          },
+          "weight": 27,
+          "network": {
+            "id": 5,
+            "name": "The CW",
+            "country": {
+              "name": "United States",
+              "code": "US",
+              "timezone": "America/New_York"
+            }
+          },
+          "webChannel": null,
+          "externals": {
+            "tvrage": 36939,
+            "thetvdb": 279121,
+            "imdb": "tt3107288"
+          },
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_portrait/49/124187.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/49/124187.jpg"
+          },
+          "summary": "<p>After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only \"meta-human\" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become...The Flash.</p>",
+          "updated": 1463071138,
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/shows/13"
+            },
+            "previousepisode": {
+              "href": "http://api.tvmaze.com/episodes/647395"
+            },
+            "nextepisode": {
+              "href": "http://api.tvmaze.com/episodes/647396"
+            }
+          }
+        },
+        "serie_id": 13,
+        "imdb": "tt3107288",
+        "createdAt": "2016-05-13T23:31:16.475Z",
+        "updatedAt": "2016-05-13T23:31:16.480Z",
+        "id": 2
+      },
+      {
+        "serie": {
+          "id": 82,
+          "url": "http://www.tvmaze.com/shows/82/game-of-thrones",
+          "name": "Game of Thrones",
+          "type": "Scripted",
+          "language": "English",
+          "genres": [
+            "Drama",
+            "Adventure",
+            "Fantasy"
+          ],
+          "status": "Running",
+          "runtime": 60,
+          "premiered": "2011-04-17",
+          "schedule": {
+            "time": "21:00",
+            "days": [
+              "Sunday"
+            ]
+          },
+          "rating": {
+            "average": 9.4
+          },
+          "weight": 100,
+          "network": {
+            "id": 8,
+            "name": "HBO",
+            "country": {
+              "name": "United States",
+              "code": "US",
+              "timezone": "America/New_York"
+            }
+          },
+          "webChannel": null,
+          "externals": {
+            "tvrage": 24493,
+            "thetvdb": 121361,
+            "imdb": "tt0944947"
+          },
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_portrait/53/132622.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/53/132622.jpg"
+          },
+          "summary": "<p>Based on the bestselling book series A Song of Ice and Fire by George R.R. Martin, this sprawling new HBO drama is set in a world where summers span decades and winters can last a lifetime. From the scheming south and the savage eastern lands, to the frozen north and ancient Wall that protects the realm from the mysterious darkness beyond, the powerful families of the Seven Kingdoms are locked in a battle for the Iron Throne. This is a story of duplicity and treachery, nobility and honor, conquest and triumph. In the <strong><em>\"Game of Thrones\"</em></strong>, you either win or you die.</p>",
+          "updated": 1462898000,
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/shows/82"
+            },
+            "previousepisode": {
+              "href": "http://api.tvmaze.com/episodes/664673"
+            },
+            "nextepisode": {
+              "href": "http://api.tvmaze.com/episodes/664674"
+            }
+          }
+        },
+        "serie_id": 82,
+        "imdb": "tt0944947",
+        "createdAt": "2016-05-14T00:26:34.597Z",
+        "updatedAt": "2016-05-14T00:26:34.603Z",
+        "id": 3
+      },
+      {
+        "serie": {
+          "id": 4,
+          "url": "http://www.tvmaze.com/shows/4/arrow",
+          "name": "Arrow",
+          "type": "Scripted",
+          "language": "English",
+          "genres": [
+            "Drama",
+            "Action",
+            "Adventure",
+            "Science-Fiction"
+          ],
+          "status": "Running",
+          "runtime": 60,
+          "premiered": "2012-10-10",
+          "schedule": {
+            "time": "20:00",
+            "days": [
+              "Wednesday"
+            ]
+          },
+          "rating": {
+            "average": 7.9
+          },
+          "weight": 10,
+          "network": {
+            "id": 5,
+            "name": "The CW",
+            "country": {
+              "name": "United States",
+              "code": "US",
+              "timezone": "America/New_York"
+            }
+          },
+          "webChannel": null,
+          "externals": {
+            "tvrage": 30715,
+            "thetvdb": 257655,
+            "imdb": "tt2193021"
+          },
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_portrait/5/14628.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/5/14628.jpg"
+          },
+          "summary": "<p>After a violent shipwreck, billionaire playboy Oliver Queen was missing and presumed dead for five years before being discovered alive on a remote island in the Pacific. He returned home to Starling City, welcomed by his devoted mother Moira, beloved sister Thea and former flame Laurel Lance. With the aid of his trusted chauffeur/bodyguard John Diggle, the computer-hacking skills of Felicity Smoak and the occasional, reluctant assistance of former police detective, now beat cop, Quentin Lance, Oliver has been waging a one-man war on crime.</p>",
+          "updated": 1463082608,
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/shows/4"
+            },
+            "previousepisode": {
+              "href": "http://api.tvmaze.com/episodes/647410"
+            },
+            "nextepisode": {
+              "href": "http://api.tvmaze.com/episodes/647411"
+            }
+          }
+        },
+        "serie_id": 4,
+        "imdb": "tt2193021",
+        "createdAt": "2016-05-15T03:37:30.823Z",
+        "updatedAt": "2016-05-15T03:37:30.832Z",
+        "id": 20
+      },
+      {
+        "serie": {
+          "id": 4,
+          "url": "http://www.tvmaze.com/shows/4/arrow",
+          "name": "Arrow",
+          "type": "Scripted",
+          "language": "English",
+          "genres": [
+            "Drama",
+            "Action",
+            "Adventure",
+            "Science-Fiction"
+          ],
+          "status": "Running",
+          "runtime": 60,
+          "premiered": "2012-10-10",
+          "schedule": {
+            "time": "20:00",
+            "days": [
+              "Wednesday"
+            ]
+          },
+          "rating": {
+            "average": 7.9
+          },
+          "weight": 10,
+          "network": {
+            "id": 5,
+            "name": "The CW",
+            "country": {
+              "name": "United States",
+              "code": "US",
+              "timezone": "America/New_York"
+            }
+          },
+          "webChannel": null,
+          "externals": {
+            "tvrage": 30715,
+            "thetvdb": 257655,
+            "imdb": "tt2193021"
+          },
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_portrait/5/14628.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/5/14628.jpg"
+          },
+          "summary": "<p>After a violent shipwreck, billionaire playboy Oliver Queen was missing and presumed dead for five years before being discovered alive on a remote island in the Pacific. He returned home to Starling City, welcomed by his devoted mother Moira, beloved sister Thea and former flame Laurel Lance. With the aid of his trusted chauffeur/bodyguard John Diggle, the computer-hacking skills of Felicity Smoak and the occasional, reluctant assistance of former police detective, now beat cop, Quentin Lance, Oliver has been waging a one-man war on crime.</p>",
+          "updated": 1463082608,
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/shows/4"
+            },
+            "previousepisode": {
+              "href": "http://api.tvmaze.com/episodes/647410"
+            },
+            "nextepisode": {
+              "href": "http://api.tvmaze.com/episodes/647411"
+            }
+          }
+        },
+        "serie_id": 4,
+        "imdb": "tt2193021",
+        "createdAt": "2016-05-15T04:05:35.037Z",
+        "updatedAt": "2016-05-15T04:05:35.045Z",
+        "id": 21
+      },
+      {
+        "serie": {
+          "id": 7229,
+          "url": "http://www.tvmaze.com/shows/7229/lucky-dog",
+          "name": "Lucky Dog",
+          "type": "Reality",
+          "language": "English",
+          "genres": [],
+          "status": "Running",
+          "runtime": 30,
+          "premiered": "2013-09-28",
+          "schedule": {
+            "time": "09:00",
+            "days": [
+              "Saturday"
+            ]
+          },
+          "rating": {
+            "average": null
+          },
+          "weight": 0,
+          "network": {
+            "id": 2,
+            "name": "CBS",
+            "country": {
+              "name": "United States",
+              "code": "US",
+              "timezone": "America/New_York"
+            }
+          },
+          "webChannel": null,
+          "externals": {
+            "tvrage": 37902,
+            "thetvdb": 274341,
+            "imdb": "tt3220976"
+          },
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_portrait/26/67210.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/26/67210.jpg"
+          },
+          "summary": "<p>On <strong><em>\"Lucky Dog\"</em></strong> animal trainer Brandon McMillan's second home is the neighborhood animal shelter where he is determined to rescue hard-to-love, out-of control, untrained and unadoptable dogs. Then, back at Brandon's training facility known as the Lucky Dog Ranch, he embarks on the seemingly impossible task of turning the frightened pooches into perfect pets. In the end, a lucky family will adopt an even luckier dog, making each episode an adoption story that warms the heart.</p>",
+          "updated": 1463271955,
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/shows/7229"
+            },
+            "previousepisode": {
+              "href": "http://api.tvmaze.com/episodes/741549"
+            },
+            "nextepisode": {
+              "href": "http://api.tvmaze.com/episodes/779825"
+            }
+          }
+        },
+        "serie_id": 7229,
+        "imdb": "tt3220976",
+        "createdAt": "2016-05-15T04:05:54.903Z",
+        "updatedAt": "2016-05-15T04:05:54.912Z",
+        "id": 22
+      },
+      {
+        "serie": {
+          "id": 83,
+          "url": "http://www.tvmaze.com/shows/83/the-simpsons",
+          "name": "The Simpsons",
+          "type": "Animation",
+          "language": "English",
+          "genres": [
+            "Comedy"
+          ],
+          "status": "Running",
+          "runtime": 30,
+          "premiered": "1989-12-17",
+          "schedule": {
+            "time": "20:00",
+            "days": [
+              "Sunday"
+            ]
+          },
+          "rating": {
+            "average": 8.6
+          },
+          "weight": 2,
+          "network": {
+            "id": 4,
+            "name": "FOX",
+            "country": {
+              "name": "United States",
+              "code": "US",
+              "timezone": "America/New_York"
+            }
+          },
+          "webChannel": null,
+          "externals": {
+            "tvrage": 6190,
+            "thetvdb": 71663,
+            "imdb": "tt0096697"
+          },
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_portrait/0/639.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/0/639.jpg"
+          },
+          "summary": "<p><strong><em>\"The Simpsons\"</em></strong> is the longest running scripted show in television history. It captures the adventures of Homer, Marge, Maggie, Bart and Lisa who are living in a fictional town called Springfield.</p>",
+          "updated": 1462928548,
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/shows/83"
+            },
+            "previousepisode": {
+              "href": "http://api.tvmaze.com/episodes/669849"
+            },
+            "nextepisode": {
+              "href": "http://api.tvmaze.com/episodes/639648"
+            }
+          }
+        },
+        "serie_id": 83,
+        "imdb": "tt0096697",
+        "createdAt": "2016-05-15T04:53:59.840Z",
+        "updatedAt": "2016-05-15T04:53:59.848Z",
+        "id": 23
+      },
+      {
+        "serie": {
+          "id": 4358,
+          "url": "http://www.tvmaze.com/shows/4358/mr-pickles",
+          "name": "Mr. Pickles",
+          "type": "Animation",
+          "language": "English",
+          "genres": [
+            "Comedy"
+          ],
+          "status": "Running",
+          "runtime": 15,
+          "premiered": "2014-09-21",
+          "schedule": {
+            "time": "00:00",
+            "days": [
+              "Sunday"
+            ]
+          },
+          "rating": {
+            "average": 8
+          },
+          "weight": 1,
+          "network": {
+            "id": 10,
+            "name": "Adult Swim",
+            "country": {
+              "name": "United States",
+              "code": "US",
+              "timezone": "America/New_York"
+            }
+          },
+          "webChannel": null,
+          "externals": {
+            "tvrage": 35798,
+            "thetvdb": 277953,
+            "imdb": "tt2950342"
+          },
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_portrait/20/51628.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/20/51628.jpg"
+          },
+          "summary": "<p><strong><em>\"Mr. Pickles\"</em></strong> is set in the small, old-fashioned world of Old Town that is slowly being taken over by the modern world. The series centers on the lives of the Goodman family and their innocent six-year-old son Tommy, whose best friend is the family's lovable border collie, Mr. Pickles. </p>",
+          "updated": 1462794217,
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/shows/4358"
+            },
+            "previousepisode": {
+              "href": "http://api.tvmaze.com/episodes/768054"
+            },
+            "nextepisode": {
+              "href": "http://api.tvmaze.com/episodes/777358"
+            }
+          }
+        },
+        "serie_id": 4358,
+        "imdb": "tt2950342",
+        "createdAt": "2016-05-15T05:16:37.121Z",
+        "updatedAt": "2016-05-15T05:16:37.128Z",
+        "id": 24
+      },
+      {
+        "serie": {
+          "id": 4,
+          "url": "http://www.tvmaze.com/shows/4/arrow",
+          "name": "Arrow",
+          "type": "Scripted",
+          "language": "English",
+          "genres": [
+            "Drama",
+            "Action",
+            "Adventure",
+            "Science-Fiction"
+          ],
+          "status": "Running",
+          "runtime": 60,
+          "premiered": "2012-10-10",
+          "schedule": {
+            "time": "20:00",
+            "days": [
+              "Wednesday"
+            ]
+          },
+          "rating": {
+            "average": 7.9
+          },
+          "weight": 10,
+          "network": {
+            "id": 5,
+            "name": "The CW",
+            "country": {
+              "name": "United States",
+              "code": "US",
+              "timezone": "America/New_York"
+            }
+          },
+          "webChannel": null,
+          "externals": {
+            "tvrage": 30715,
+            "thetvdb": 257655,
+            "imdb": "tt2193021"
+          },
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_portrait/5/14628.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/5/14628.jpg"
+          },
+          "summary": "<p>After a violent shipwreck, billionaire playboy Oliver Queen was missing and presumed dead for five years before being discovered alive on a remote island in the Pacific. He returned home to Starling City, welcomed by his devoted mother Moira, beloved sister Thea and former flame Laurel Lance. With the aid of his trusted chauffeur/bodyguard John Diggle, the computer-hacking skills of Felicity Smoak and the occasional, reluctant assistance of former police detective, now beat cop, Quentin Lance, Oliver has been waging a one-man war on crime.</p>",
+          "updated": 1463082608,
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/shows/4"
+            },
+            "previousepisode": {
+              "href": "http://api.tvmaze.com/episodes/647410"
+            },
+            "nextepisode": {
+              "href": "http://api.tvmaze.com/episodes/647411"
+            }
+          }
+        },
+        "serie_id": 4,
+        "imdb": "tt2193021",
+        "createdAt": "2016-05-15T15:15:59.436Z",
+        "updatedAt": "2016-05-15T15:15:59.451Z",
+        "id": 25
+      },
+      {
+        "serie": {
+          "id": 82,
+          "url": "http://www.tvmaze.com/shows/82/game-of-thrones",
+          "name": "Game of Thrones",
+          "type": "Scripted",
+          "language": "English",
+          "genres": [
+            "Drama",
+            "Adventure",
+            "Fantasy"
+          ],
+          "status": "Running",
+          "runtime": 60,
+          "premiered": "2011-04-17",
+          "schedule": {
+            "time": "21:00",
+            "days": [
+              "Sunday"
+            ]
+          },
+          "rating": {
+            "average": 9.4
+          },
+          "weight": 100,
+          "network": {
+            "id": 8,
+            "name": "HBO",
+            "country": {
+              "name": "United States",
+              "code": "US",
+              "timezone": "America/New_York"
+            }
+          },
+          "webChannel": null,
+          "externals": {
+            "tvrage": 24493,
+            "thetvdb": 121361,
+            "imdb": "tt0944947"
+          },
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_portrait/53/132622.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/53/132622.jpg"
+          },
+          "summary": "<p>Based on the bestselling book series A Song of Ice and Fire by George R.R. Martin, this sprawling new HBO drama is set in a world where summers span decades and winters can last a lifetime. From the scheming south and the savage eastern lands, to the frozen north and ancient Wall that protects the realm from the mysterious darkness beyond, the powerful families of the Seven Kingdoms are locked in a battle for the Iron Throne. This is a story of duplicity and treachery, nobility and honor, conquest and triumph. In the <strong><em>\"Game of Thrones\"</em></strong>, you either win or you die.</p>",
+          "updated": 1462898000,
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/shows/82"
+            },
+            "previousepisode": {
+              "href": "http://api.tvmaze.com/episodes/664673"
+            },
+            "nextepisode": {
+              "href": "http://api.tvmaze.com/episodes/664674"
+            }
+          }
+        },
+        "serie_id": 82,
+        "imdb": "tt0944947",
+        "createdAt": "2016-05-15T19:40:51.824Z",
+        "updatedAt": "2016-05-15T19:40:51.838Z",
+        "id": 27
+      },
+      {
+        "serie": {
+          "id": 13,
+          "url": "http://www.tvmaze.com/shows/13/the-flash",
+          "name": "The Flash",
+          "type": "Scripted",
+          "language": "English",
+          "genres": [
+            "Drama",
+            "Action",
+            "Adventure",
+            "Science-Fiction"
+          ],
+          "status": "Running",
+          "runtime": 60,
+          "premiered": "2014-10-07",
+          "schedule": {
+            "time": "20:00",
+            "days": [
+              "Tuesday"
+            ]
+          },
+          "rating": {
+            "average": 8.3
+          },
+          "weight": 27,
+          "network": {
+            "id": 5,
+            "name": "The CW",
+            "country": {
+              "name": "United States",
+              "code": "US",
+              "timezone": "America/New_York"
+            }
+          },
+          "webChannel": null,
+          "externals": {
+            "tvrage": 36939,
+            "thetvdb": 279121,
+            "imdb": "tt3107288"
+          },
+          "image": {
+            "medium": "http://tvmazecdn.com/uploads/images/medium_portrait/49/124187.jpg",
+            "original": "http://tvmazecdn.com/uploads/images/original_untouched/49/124187.jpg"
+          },
+          "summary": "<p>After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only \"meta-human\" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become...The Flash.</p>",
+          "updated": 1463071138,
+          "_links": {
+            "self": {
+              "href": "http://api.tvmaze.com/shows/13"
+            },
+            "previousepisode": {
+              "href": "http://api.tvmaze.com/episodes/647395"
+            },
+            "nextepisode": {
+              "href": "http://api.tvmaze.com/episodes/647396"
+            }
+          }
+        },
+        "serie_id": 13,
+        "imdb": "tt3107288",
+        "createdAt": "2016-05-16T02:00:03.754Z",
+        "updatedAt": "2016-05-16T02:00:03.762Z",
+        "id": 31
+      }
+    ],
+    "user": [
+      {
+        "avatar": "/img/avatar4.png",
+        "username": "TheFlash",
+        "email": "dummie@gmail.com",
+        "password": "$2a$10$SVfPoH/16kd1j57yORFGLeXp5qcNCgiIVSlxr5KqURM0kRQOgV6J.",
+        "createdAt": "2016-05-13T23:29:40.316Z",
+        "updatedAt": "2016-05-16T03:37:37.706Z",
+        "id": 1
+      },
+      {
+        "avatar": "/img/avatar4.png",
+        "username": "GOT is comming",
+        "email": "christianfontes789@gmail.com",
+        "password": "$2a$10$7yJHXWwQ3vxX4A9g/SKzvOWrXYuQSCj09oSmyrC6wv63shCVivtjW",
+        "createdAt": "2016-05-13T23:30:09.495Z",
+        "updatedAt": "2016-05-16T03:45:36.787Z",
+        "id": 2
+      },
+      {
+        "avatar": "/img/avatar-default.jpg",
+        "username": "daniel",
+        "email": "d.ortiz.lira@gmail.com",
+        "password": "$2a$10$1i83mOIPxa8aKikXBV.w8uIU0HLyGVyowZ9Pa/LsNf7pDGr2JvxGm",
+        "createdAt": "2016-05-15T02:29:51.915Z",
+        "updatedAt": "2016-05-15T02:29:51.915Z",
+        "id": 3
+      }
+    ],
+    "progressseries_owners__user_progressseries": [
+      {
+        "user_progressSeries": 2,
+        "progressseries_owners": 4,
+        "id": 4
+      },
+      {
+        "user_progressSeries": 2,
+        "progressseries_owners": 5,
+        "id": 5
+      },
+      {
+        "user_progressSeries": 2,
+        "progressseries_owners": 6,
+        "id": 6
+      },
+      {
+        "user_progressSeries": 2,
+        "progressseries_owners": 9,
+        "id": 9
+      },
+      {
+        "user_progressSeries": 2,
+        "progressseries_owners": 10,
+        "id": 10
+      },
+      {
+        "user_progressSeries": 2,
+        "progressseries_owners": 11,
+        "id": 11
+      },
+      {
+        "user_progressSeries": 2,
+        "progressseries_owners": 12,
+        "id": 12
+      },
+      {
+        "user_progressSeries": 2,
+        "progressseries_owners": 13,
+        "id": 13
+      },
+      {
+        "user_progressSeries": 1,
+        "progressseries_owners": 17,
+        "id": 17
+      },
+      {
+        "user_progressSeries": 1,
+        "progressseries_owners": 18,
+        "id": 18
+      },
+      {
+        "user_progressSeries": 1,
+        "progressseries_owners": 19,
+        "id": 19
+      },
+      {
+        "user_progressSeries": 1,
+        "progressseries_owners": 20,
+        "id": 20
+      },
+      {
+        "user_progressSeries": 1,
+        "progressseries_owners": 21,
+        "id": 21
+      },
+      {
+        "user_progressSeries": 1,
+        "progressseries_owners": 26,
+        "id": 26
+      },
+      {
+        "user_progressSeries": 1,
+        "progressseries_owners": 27,
+        "id": 27
+      },
+      {
+        "user_progressSeries": 1,
+        "progressseries_owners": 28,
+        "id": 28
+      },
+      {
+        "user_progressSeries": 1,
+        "progressseries_owners": 30,
+        "id": 30
+      },
+      {
+        "user_progressSeries": 3,
+        "progressseries_owners": 31,
+        "id": 31
+      },
+      {
+        "user_progressSeries": 3,
+        "progressseries_owners": 32,
+        "id": 32
+      },
+      {
+        "user_progressSeries": 1,
+        "progressseries_owners": 33,
+        "id": 33
+      },
+      {
+        "user_progressSeries": 1,
+        "progressseries_owners": 34,
+        "id": 34
+      },
+      {
+        "user_progressSeries": 1,
+        "progressseries_owners": 35,
+        "id": 35
+      }
+    ],
+    "series_owners__user_series": [
+      {
+        "user_series": 2,
+        "series_owners": 2,
+        "id": 2
+      },
+      {
+        "user_series": 2,
+        "series_owners": 3,
+        "id": 3
+      },
+      {
+        "user_series": 2,
+        "series_owners": 20,
+        "id": 20
+      },
+      {
+        "user_series": 3,
+        "series_owners": 21,
+        "id": 21
+      },
+      {
+        "user_series": 3,
+        "series_owners": 22,
+        "id": 22
+      },
+      {
+        "user_series": 2,
+        "series_owners": 23,
+        "id": 23
+      },
+      {
+        "user_series": 2,
+        "series_owners": 24,
+        "id": 24
+      },
+      {
+        "user_series": 1,
+        "series_owners": 25,
+        "id": 25
+      },
+      {
+        "user_series": 1,
+        "series_owners": 27,
+        "id": 27
+      },
+      {
+        "user_series": 1,
+        "series_owners": 31,
+        "id": 31
+      }
+    ]
+  },
+  "schema": {
+    "progressseries": {
+      "mySerie": {
+        "type": "integer",
+        "model": "series",
+        "foreignKey": true,
+        "alias": "mySerie"
+      },
+      "episodeId": {
+        "type": "string"
+      },
+      "serieIMDB": {
+        "type": "string"
+      },
+      "info": {
+        "type": "json"
+      },
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "series": {
+      "serie": {
+        "type": "json"
+      },
+      "imdb": {
+        "type": "string"
+      },
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "user": {
+      "username": {
+        "type": "string",
+        "unique": true
+      },
+      "email": {
+        "type": "string",
+        "unique": true
+      },
+      "password": {
+        "type": "string"
+      },
+      "avatar": {
+        "type": "string"
+      },
+      "deviceToken": {
+        "type": "string"
+      },
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "progressseries_owners__user_progressseries": {
+      "id": {
+        "primaryKey": true,
+        "unique": true,
+        "autoIncrement": true,
+        "type": "integer"
+      },
+      "progressseries_owners": {
+        "type": "integer",
+        "foreignKey": true,
+        "references": "progressseries",
+        "on": "id",
+        "via": "user_progressSeries"
+      },
+      "user_progressSeries": {
+        "type": "integer",
+        "foreignKey": true,
+        "references": "user",
+        "on": "id",
+        "via": "progressseries_owners"
+      }
+    },
+    "series_owners__user_series": {
+      "id": {
+        "primaryKey": true,
+        "unique": true,
+        "autoIncrement": true,
+        "type": "integer"
+      },
+      "series_owners": {
+        "type": "integer",
+        "foreignKey": true,
+        "references": "series",
+        "on": "id",
+        "via": "user_series"
+      },
+      "user_series": {
+        "type": "integer",
+        "foreignKey": true,
+        "references": "user",
+        "on": "id",
+        "via": "series_owners"
+      }
+    }
+  },
+  "counters": {
+    "progressseries": {
+      "id": 35
+    },
+    "series": {
+      "id": 34
+    },
+    "user": {
+      "id": 3
+    },
+    "progressseries_owners__user_progressseries": {
+      "id": 35
+    },
+    "series_owners__user_series": {
+      "id": 34
+    }
+  }
+}
