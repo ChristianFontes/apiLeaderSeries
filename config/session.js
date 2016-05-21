@@ -66,12 +66,12 @@ module.exports.session = {
   * store                                                                    *
   *                                                                          *
   ***************************************************************************/
-
+/*
   adapter: 'sails-mongo',
   host: 'localhost',
   port: 27017,
   db: 'sails',
-  collection: 'sessions',
+  collection: 'sessions',*/
 
   /***************************************************************************
   *                                                                          *
