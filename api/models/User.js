@@ -3,10 +3,11 @@ var bcrypt = require('bcrypt');
 module.exports = {
 
     attributes: {
+        schema: false,
         username: {
             type: 'string',
             required: 'true',
-            unique: true
+            unique: true,
         },
         email: {
             type: 'email',
