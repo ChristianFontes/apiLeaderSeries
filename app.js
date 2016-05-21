@@ -20,7 +20,7 @@
 
 // Ensure we're in the project directory, so relative paths work as expected
 // no matter where we actually lift from.
-/*
+
 process.chdir(__dirname);
 
 (function() {
@@ -56,11 +56,11 @@ process.chdir(__dirname);
 
   sails.lift(rc('sails'));
 })();
-*/
 
+/*
 var http = require('http');
 http.createServer(function (req, res) {
   res.writeHead(200, {'Content-Type': 'text/plain'});
   res.end('Hello World\n');
 }).listen(8080, '107.180.66.6');
-console.log('Server running at 107.180.66.6/');
+console.log('Server running at 107.180.66.6/');*/
