@@ -67,7 +67,7 @@ module.exports.session = {
   *                                                                          *
   ***************************************************************************/
 
-  adapter: 'MongoServer',
+  adapter: 'sails-mongo',
   host: 'localhost',
   port: 27017,
   db: 'sails',
