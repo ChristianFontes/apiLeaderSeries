@@ -20,9 +20,9 @@
 
 // Ensure we're in the project directory, so relative paths work as expected
 // no matter where we actually lift from.
+/*
 process.chdir(__dirname);
 
-// Ensure a "sails" can be located:
 (function() {
   var sails;
   try {
@@ -37,7 +37,7 @@ process.chdir(__dirname);
     return;
   }
 
-  // Try to get `rc` dependency
+
   var rc;
   try {
     rc = require('rc');
@@ -52,7 +52,15 @@ process.chdir(__dirname);
       rc = function () { return {}; };
     }
   }
-  
-  // Start server
+
+
   sails.lift(rc('sails'));
 })();
+*/
+
+var http = require('http');
+http.createServer(function (req, res) {
+  res.writeHead(200, {'Content-Type': 'text/plain'});
+  res.end('Hello World\n');
+}).listen(8080, '10.195.34.128');
+console.log('Server running at 10.195.34.128:8080/');
