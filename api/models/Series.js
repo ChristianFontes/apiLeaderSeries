@@ -1,7 +1,6 @@
 module.exports = {
 
     attributes: {
-    	schema: false,
         owners: {
 	      collection: 'user',
 	      via: 'series'

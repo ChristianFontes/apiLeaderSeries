@@ -3,16 +3,17 @@ var bcrypt = require('bcrypt');
 module.exports = {
 
     attributes: {
-        schema: false,
         username: {
             type: 'string',
             required: 'true',
             unique: true,
+            primaryKey: true
         },
         email: {
             type: 'email',
             required: 'true',
-            unique: true
+            unique: true,
+            primaryKey: true
         },
         password: {
             type: 'string',
