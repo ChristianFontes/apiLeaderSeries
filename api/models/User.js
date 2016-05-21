@@ -6,14 +6,12 @@ module.exports = {
         username: {
             type: 'string',
             required: 'true',
-            unique: true,
-            primaryKey: true
+            unique: true
         },
         email: {
             type: 'email',
             required: 'true',
-            unique: true,
-            primaryKey: true
+            unique: true
         },
         password: {
             type: 'string',
