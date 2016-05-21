@@ -62,5 +62,5 @@ var http = require('http');
 http.createServer(function (req, res) {
   res.writeHead(200, {'Content-Type': 'text/plain'});
   res.end('Hello World\n');
-}).listen(8080, '10.195.34.128');
-console.log('Server running at 10.195.34.128:8080/');
+}).listen(8080, '107.180.66.6');
+console.log('Server running at 107.180.66.6/');
