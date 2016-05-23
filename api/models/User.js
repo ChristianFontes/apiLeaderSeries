@@ -33,6 +33,16 @@ module.exports = {
           via: 'owners',
           dominant: true
         },
+        recommend: {
+          collection: 'recommend',
+          via: 'owners',
+          dominant: true
+        },
+        activity: {
+          collection: 'activity',
+          via: 'owners',
+          dominant: true
+        },
         toJSON: function () {
             var obj = this.toObject();
             delete obj.password;
