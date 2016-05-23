@@ -22,7 +22,7 @@ module.exports = {
     },
     type: {
     	type: 'string'
-    }
+    },
     owners: {
 		collection: 'user',
 		via: 'activity'
