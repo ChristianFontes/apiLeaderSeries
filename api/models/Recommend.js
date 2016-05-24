@@ -19,10 +19,6 @@ module.exports = {
     },
     imageSerie: {
     	type: 'string'
-    },
-    owners: {
-		collection: 'user',
-		via: 'recommend'
     }
 }
 };
