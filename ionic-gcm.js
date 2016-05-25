@@ -28,7 +28,7 @@ app.get('/push', function(req, res){
     var device_tokens = []; //create array for storing device tokens
     var retry_times = 4; //the number of times to retry sending the message if it fails
 
-    var sender = new gcm.Sender('THE API KEY OF YOUR GOOGLE CONSOLE PROJECT'); //create a new sender
+    var sender = new gcm.Sender('761596609943'); //create a new sender
     var message = new gcm.Message(); //create a new message
 
     message.addData('title', 'New Message');
