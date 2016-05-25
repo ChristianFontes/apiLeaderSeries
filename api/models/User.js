@@ -76,26 +76,6 @@ module.exports = {
                 cb(err);
             }
         })
-    },
-    seedData:[
-      {
-        username: 'Guest',
-        email:'guest@email.com',
-        password:'123456',
-        avatar: './img/avatar5.png'
-      },
-      {
-        username: 'christianf',
-        email:'christianfontes82@gmail.com',
-        password:'qqqqqq',
-        avatar: 'Daniel'
-      },
-      {
-        username: 'dummie',
-        email:'dummie@gmail.com',
-        password:'qqqqqq',
-        avatar: 'Daniel'
-      }
-    ]
+    }
 };
 
