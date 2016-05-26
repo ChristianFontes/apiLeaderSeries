@@ -13,17 +13,17 @@ module.exports = {
 		via: 'seriesToday'
     },
     mySerie: {
-      	model: 'series'
+      type: 'json'
     },
     serieId: {
     	type: 'string',
     	unique: true
     },
     date: {
-    	type: 'date'
+      type: 'string'
     },
-    read: {
-    	type: 'boolean'
+    time: {
+    	type: 'string'
     }
   }
 };
