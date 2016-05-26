@@ -1,4 +1,8 @@
 var express = require('express');
+var bodyParser = require('body-parser');
+
+app.use(bodyParser.json());
+
 var gcm = require('node-gcm');
  
 var app = express();
