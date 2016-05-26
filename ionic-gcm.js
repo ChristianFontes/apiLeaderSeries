@@ -1,6 +1,6 @@
 var express = require('express');
 var gcm = require('node-gcm');
-
+ 
 var app = express();
 
 var server = app.listen(3000, function(){
@@ -11,6 +11,7 @@ app.use(function(req, res, next){
   res.header("Access-Control-Allow-Origin", "*");
   res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
   next();
+  console.log('On App Use');
 });
 
 var device_token;
@@ -28,7 +29,7 @@ app.get('/push', function(req, res){
     var device_tokens = []; //create array for storing device tokens
     var retry_times = 4; //the number of times to retry sending the message if it fails
 
-    var sender = new gcm.Sender('761596609943'); //create a new sender
+    var sender = new gcm.Sender('AIzaSyAGyx0Dk1VEnFJFMg9n8PSQECs9MAgzO14'); //create a new sender
     var message = new gcm.Message(); //create a new message
 
     message.addData('title', 'New Message');
