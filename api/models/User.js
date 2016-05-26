@@ -20,9 +20,6 @@ module.exports = {
         avatar: {
             type: 'string'
         },
-        deviceToken: {
-            type: 'string'
-        },
         series: {
           collection: 'series',
           via: 'owners',
@@ -30,6 +27,16 @@ module.exports = {
         },
         progressSeries: {
           collection: 'progressSeries',
+          via: 'owners',
+          dominant: true
+        },
+        seriesToday: {
+          collection: 'seriesToday',
+          via: 'owners',
+          dominant: true
+        },
+        deviceToken: {
+          collection: 'deviceToken',
           via: 'owners',
           dominant: true
         },
