@@ -10,11 +10,20 @@ module.exports = {
   attributes: {
   	owners: {
 		collection: 'user',
-		via: 'deviceToken'
+		via: 'SeriesToday'
     },
-    token: {
+    mySerie: {
+      	model: 'series'
+    },
+    serieId: {
     	type: 'string',
     	unique: true
+    },
+    date: {
+    	type: 'date'
+    },
+    read: {
+    	type: 'boolean'
     }
   }
 };

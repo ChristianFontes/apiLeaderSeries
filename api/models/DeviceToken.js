@@ -8,7 +8,14 @@
 module.exports = {
 
   attributes: {
-
+  	owners: {
+		collection: 'user',
+		via: 'deviceToken'
+    },
+    token: {
+    	type: 'string',
+    	unique: true
+    }
   }
 };
 
