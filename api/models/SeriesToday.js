@@ -10,7 +10,7 @@ module.exports = {
   attributes: {
   	owners: {
 		collection: 'user',
-		via: 'SeriesToday'
+		via: 'seriesToday'
     },
     mySerie: {
       	model: 'series'
